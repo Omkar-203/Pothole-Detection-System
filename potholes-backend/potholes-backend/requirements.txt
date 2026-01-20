@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+ultralytics
+sqlalchemy
+python-multipart
+bcrypt
+opencv-python-headless
+python-jose
+google-generativeai
+pillow
+geopy
+requests
